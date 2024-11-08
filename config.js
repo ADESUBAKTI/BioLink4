@@ -1,8 +1,8 @@
 const config = {
-  profilePicture: "https://telegra.ph/file/f034734bd0bc2fed63491.jpg",
-  popupPicture: "https://telegra.ph/file/f034734bd0bc2fed63491.jpg",
+  profilePicture: "https://a.top4top.io/p_3234x7ujf1.jpg",
+  popupPicture: "https://a.top4top.io/p_3234x7ujf1.jpg",
   popupQuote: "But... the sensation that I've lost something lingers for a longtime after I wake up.",
-  userName: "@VynaaValerie",
+  userName: "@AdeSubakti",
   links: [
     { href: "https://github.com/VynaaVlerie", icon: "fab fa-github", label: "Github" },
     { href: "https://www.linkedin.com/in/", icon: "fab fa-linkedin", label: "Linkedin" },
