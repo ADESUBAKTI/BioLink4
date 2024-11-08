@@ -3,7 +3,8 @@ const config = {
   popupPicture: "https://a.top4top.io/p_3234x7ujf1.jpg",
   popupQuote: "But... the sensation that I've lost something lingers for a longtime after I wake up.",
   userName: "@AdeSubakti",
-  links: [
+   links: [
+    { href: "https://github.com/VynaaVlerie", icon: "fab fa-github", label: "Github" },
     { href: "https://www.linkedin.com/in/", icon: "fab fa-linkedin", label: "Linkedin" },
     { href: "https://www.facebook.com/", icon: "fab fa-facebook", label: "Facebook" },
     { href: "https://www.instagram.com/vynaa_valerie", icon: "fab fa-instagram", label: "Instagram" },
